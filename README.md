@@ -73,5 +73,12 @@ The model is trained and evaluated on the following datasets:
 This project builds upon open-source contributions from the HuggingFace ecosystem and the research community on parameter-efficient fine-tuning.
 
 ---
+## Contact
+
+If you have questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Name**: Manoj Kumar.CM  
+- **Email**: [manoj.kumar@dsai.iitm.ac.in]  
+- **GitHub Profile**: [Manoj Kumar C M](https://github.com/MANOJKUMAR-CM)
 
 
